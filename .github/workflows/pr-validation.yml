@@ -7,7 +7,7 @@ on:
 
 jobs:
 
-  #confidentiliaty-test:
+  confidentiliaty-test:
     runs-on: ubuntu-latest
 
     permissions:
